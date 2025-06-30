@@ -31,4 +31,10 @@ Gerçek zamanlı uçuşları harita üzerinde takip etmenizi sağlayan web uygul
 - Bootstrap – UI bileşenleri ve responsive yapı
 
 - React Paginate – Sayfalama fonksiyonu
-# FlightRadar
+
+<h1>DEMO</h1>
+
+![](/flight.gif)
+
+## loading özelliği ile 
+![](./flight2.gif)
